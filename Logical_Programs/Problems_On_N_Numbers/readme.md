@@ -1,6 +1,6 @@
-# Problems_On_Number:
+# Problems_On_N_Number:
 
-  This folder contains all problems related to Numbers.
+  This folder contains all problems related to N numbers(Array of numbers).
 
 
     commands used to execute this files codes are:-
@@ -17,7 +17,7 @@
 
 └── Logical_Programs 
 
-    └── Problems_N_Number
+    └── Problems_On_N_Number
 
         ├── Program01.java
 
